@@ -1,1 +1,3 @@
 # Seaborn-Visualization-App
+
+This App consists of the graphs using the tips dataset from the seaborn itself...
